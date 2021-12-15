@@ -3985,18 +3985,5 @@
 			"restart_policy": "unless-stopped",
 			"title": "Dradis",
 			"type": 1
-		},
-    {
-      "type": 2,
-      "title": "Wordpress",
-      "description": "Wordpress stack",
-      "note": "Deploys an stack of wordpress and mariadb",
-      "categories": ["Content Management", "Blogging"],
-      "platform": "linux",
-      "logo": "https://s.w.org/style/images/about/WordPress-logotype-simplified.png",
-      "repository": {
-        "url": 
-      }
-    }
-	]
+		}
 }
